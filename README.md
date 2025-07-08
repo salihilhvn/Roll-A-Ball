@@ -27,3 +27,4 @@
 - .NET 6 / C# 10 support  
 - A modern GPU (compatible with HDRP)  
 
+![Ekran görüntüsü 2025-07-09 003558](https://github.com/user-attachments/assets/21225414-6209-47e1-b816-13a9d6b09053)
